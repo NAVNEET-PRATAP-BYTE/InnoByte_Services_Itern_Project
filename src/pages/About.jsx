@@ -9,7 +9,7 @@ function About() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div class="max-w-xl  px-1  flex flex-col md:flex-row items-center gap-12">
               <img
-                src="\out.jpg"
+                src="/InnoByte_Services_Itern_Project/out.jpg"
                 alt="Kingsukh Guest House"
                 class="w-full  rounded-3xl shadow-xl object-cover h-96"
               />
