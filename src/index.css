@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.link-underline {
+  @apply absolute h-[2px] bottom-0 bg-green-500;
+}
